@@ -8,6 +8,14 @@ body{
   text-align: center;
 }
 
+#redes{
+  margin-right: 100px;
+}
+
+#bancos_dados{
+  grid-column: 1 / -1;
+}
+
 .dado a{
   text-decoration: none;
 }
@@ -20,9 +28,6 @@ body{
   display: inline;
 }
 
-#bancos_dados{
-  grid-column: 1 / -1;
-}
 
 .fotos{
   max-width: calc(100% - 6px);
